@@ -1,6 +1,6 @@
 Hi,
 
-The code is 100% working covering all the test case scenarios automated. 
+The code covering all the test case scenarios automated. 
 
 There might be occasional messages displaying relational xpath warning messages or error thrown while excuting the code with Cypress, but nothing to worry. Just re-run the test multiple times till it all works out fine. 
 I will be attaching screenshots to show that all the tests are working fine along with the code. 
